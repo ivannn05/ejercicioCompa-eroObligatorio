@@ -1,0 +1,14 @@
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicioDeCompañeroObligatorio\bin\Debug\net6.0\ejercicioDeCompañeroObligatorio.exe
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicioDeCompañeroObligatorio\bin\Debug\net6.0\ejercicioDeCompañeroObligatorio.deps.json
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicioDeCompañeroObligatorio\bin\Debug\net6.0\ejercicioDeCompañeroObligatorio.runtimeconfig.json
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicioDeCompañeroObligatorio\bin\Debug\net6.0\ejercicioDeCompañeroObligatorio.dll
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicioDeCompañeroObligatorio\bin\Debug\net6.0\ejercicioDeCompañeroObligatorio.pdb
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicioDeCompañeroObligatorio\obj\Debug\net6.0\ejercicioDeCompañeroObligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicioDeCompañeroObligatorio\obj\Debug\net6.0\ejercicioDeCompañeroObligatorio.AssemblyInfoInputs.cache
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicioDeCompañeroObligatorio\obj\Debug\net6.0\ejercicioDeCompañeroObligatorio.AssemblyInfo.cs
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicioDeCompañeroObligatorio\obj\Debug\net6.0\ejercicioDeCompañeroObligatorio.csproj.CoreCompileInputs.cache
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicioDeCompañeroObligatorio\obj\Debug\net6.0\ejercicioDeCompañeroObligatorio.dll
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicioDeCompañeroObligatorio\obj\Debug\net6.0\refint\ejercicioDeCompañeroObligatorio.dll
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicioDeCompañeroObligatorio\obj\Debug\net6.0\ejercicioDeCompañeroObligatorio.pdb
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicioDeCompañeroObligatorio\obj\Debug\net6.0\ejercicioDeCompañeroObligatorio.genruntimeconfig.cache
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicioDeCompañeroObligatorio\obj\Debug\net6.0\ref\ejercicioDeCompañeroObligatorio.dll
